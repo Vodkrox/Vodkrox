@@ -1,15 +1,15 @@
 Non-Professional Developer. Passionate about Linux & FOSS. Also a ThinkPad collector.
 
-My projects are based on clean architecture, automation and open source.
+My projects are based on clean architecture & automation. I enjoy experimenting with self-hosted services and working on open-source projects.
 
-# Skills
+## Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,nodejs,html,css,javascript,react,mysql,git,typescript,cs" />
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" />
 </p>
 
-# Hobbies
+## Hobbies
 
 * **Linux**:
   I enjoy using Linux as my primary operating system, exploring different distributions and customizing my environment.
@@ -26,5 +26,5 @@ My projects are based on clean architecture, automation and open source.
 * **Collecting and Using Retro Gaming Consoles**:
   I enjoy collecting classic gaming consoles, preserving their hardware, and experiencing games from previous generations.
 
-
-I enjoy experimenting with self-hosted services and working on open-source projects.
+## Active proyects
+- I am currently working on Lithium, a minimalist AI-powered code editor designed to run entirely locally. The project focuses on providing intelligent coding assistance while keeping all processing on the user's machine, ensuring privacy, low latency, and offline usability.
