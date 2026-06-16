@@ -2,7 +2,7 @@ Non-Professional Developer. Passionate about Linux & FOSS. Also a ThinkPad colle
 
 My projects are based on clean architecture, automation and open source.
 
-#Skills
+# Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,nodejs,html,css,javascript,react,mysql,git,typescript,cs" />
