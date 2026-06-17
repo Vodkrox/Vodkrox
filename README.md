@@ -38,7 +38,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 
 
-<img src="assets/active.svg" width="12"> **ORION**: A subscription-based SaaS platform that provides on-demand Minecraft servers. I manage maintenance, moderation, and the installation or removal of mods (game modifications). It has **28 subscribers**.
+<img src="assets/active.svg" width="12"> **ORION**: A subscription-based SaaS platform that provides on-demand Minecraft servers. I manage maintenance, moderation, and the installation or removal of mods (game modifications). It has **28 subscribers** and has been active since **April 30**.
 
 
 <img src="assets/archived.svg" width="12"> **NOTTO**: A web-based clicker game where players earned virtual points and could wager them within the game. It averaged **3.2K daily users**. I archived the project due to limited resources after maintaining it for **1 year and 4 months**.
