@@ -6,8 +6,8 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,nodejs,html,css,javascript,react,mysql,git,typescript,cs,vscode,docker,arduino,powershell,ps" />
-  <img src="https://cdn.worldvectorlogo.com/logos/smb-2.svg" width="48" alt="SMB" />
-  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" alt="Home Assistant" />
+  <img src="https://cdn.worldvectorlogo.com/logos/smb-2.svg" width="28" alt="SMB" />
+  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="28" alt="Home Assistant" />
 </p>
 
 ## Hobbies
