@@ -27,7 +27,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 * **Collecting and Using Retro Gaming Consoles**:
   I enjoy collecting classic gaming consoles, preserving their hardware, and experiencing games from previous generations.
 
-## Proyects |  <img src="assets/active.svg" width="12"> Active  |  <img src="assets/archived.svg" width="12"> Archived  |  <img src="assets/discontinued.svg" width="12"> Discontinued  |
+## My Proyects |  <img src="assets/active.svg" width="12"> Active  |  <img src="assets/archived.svg" width="12"> Archived  |  <img src="assets/discontinued.svg" width="12"> Discontinued  |
 <img src="assets/active.svg" width="12"> **LITHIUM**: A **minimalist AI-powered code editor** designed to run **entirely locally**. The project focuses on providing intelligent coding assistance while keeping all processing on the user's machine, ensuring privacy, low latency, and offline usability. 
 
 
@@ -38,7 +38,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 <img src="assets/active.svg" width="12"> **ORION**: A subscription-based SaaS platform that provides on-demand Minecraft servers. I manage maintenance, moderation, and the installation or removal of mods (game modifications). It is currently active and has **28 subscribers**.
 
 
-<img src="assets/archived.svg" width="12"> **NOTTO**: I created **Notto**, a web-based clicker game where players earned virtual points and could wager them within the game. It averaged **3.2K daily users**. I archived the project due to limited resources after maintaining it for **1 year and 4 months**.
+<img src="assets/archived.svg" width="12"> **NOTTO**: A web-based clicker game where players earned virtual points and could wager them within the game. It averaged **3.2K daily users**. I archived the project due to limited resources after maintaining it for **1 year and 4 months**.
 
 
-<img src="assets/discontinued.svg" width="12"> **TRISQUEL DRIVE**: I created **Trisquel Drive**, a SaaS cloud storage platform that combined SMB file sharing with a web interface and a subscription-based payment model. The service reached **20 users** and remained active for **1 year and 8 months**.
+<img src="assets/discontinued.svg" width="12"> **TRISQUEL DRIVE**: A SaaS cloud storage platform that combined SMB file sharing with a web interface and a subscription-based payment model. The service reached **20 users** and remained active for **1 year and 8 months**.
