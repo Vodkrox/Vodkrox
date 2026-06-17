@@ -5,7 +5,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,nodejs,html,css,javascript,react,mysql,git,typescript,cs" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,nodejs,html,css,javascript,react,mysql,git,typescript,cs" />
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" />
 </p>
 
