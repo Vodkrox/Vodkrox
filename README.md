@@ -32,4 +32,4 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 <img src="assets/archived.svg" width="12"> I created **Notto**, a web-based clicker game where players earned virtual points and could wager them within the game. It averaged **3.2K daily users**. I archived the project due to limited resources after maintaining it for **1 year and 4 months**.
 
-<img src="assets/discontinued.svg" I created **Trisquel Drive**, a SaaS cloud storage platform that combined SMB file sharing with a web interface and a subscription-based payment model. The service reached **20 users** and remained active for **1 year and 8 months**.
+<img src="assets/discontinued.svg" width="12"> I created **Trisquel Drive**, a SaaS cloud storage platform that combined SMB file sharing with a web interface and a subscription-based payment model. The service reached **20 users** and remained active for **1 year and 8 months**.
