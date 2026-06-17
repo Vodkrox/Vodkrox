@@ -28,9 +28,13 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
   I enjoy collecting classic gaming consoles, preserving their hardware, and experiencing games from previous generations.
 
 ## My proyects 
+
 <br>
+
 |  <img src="assets/active.svg" width="12"> Active  |  <img src="assets/archived.svg" width="12"> Archived  |  <img src="assets/discontinued.svg" width="12"> Discontinued  |
+
 <br>
+
 <img src="assets/active.svg" width="12"> **LITHIUM**: A **minimalist AI-powered code editor** designed to run **entirely locally**. The project focuses on providing intelligent coding assistance while keeping all processing on the user's machine, ensuring privacy, low latency, and offline usability. 
 
 
