@@ -31,7 +31,8 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 <img src="assets/active.svg" width="12"> "LITHIUM": A **minimalist AI-powered code editor** designed to run **entirely locally**. The project focuses on providing intelligent coding assistance while keeping all processing on the user's machine, ensuring privacy, low latency, and offline usability. 
 
 
-<img src="assets/active.svg" width="12"> "RESERGALIA": <t:1772668800:R>
+<img src="assets/active.svg" width="12"> "RESERGALIA": A WhatsApp bot system that automates bookings, appointments, and reminders for small and medium-sized businesses. It has **6 subscribers** and has been active since **March 4**.
+
 
 
 <img src="assets/active.svg" width="12"> "ORION": A subscription-based SaaS platform that provides on-demand Minecraft servers. I manage maintenance, moderation, and the installation or removal of mods (game modifications). It is currently active and has **28 subscribers**.
