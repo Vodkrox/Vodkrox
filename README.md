@@ -8,23 +8,6 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
   <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,nodejs,html,css,javascript,react,mysql,git,typescript,cs,vscode,docker,arduino,powershell,ps" />
 </p>
 
-## Hobbies
-
-* **Linux**:
-  I enjoy using Linux as my primary operating system, exploring different distributions and customizing my environment.
-
-* **Collecting ThinkPads**:
-  I collect ThinkPad laptops, especially older models, and enjoy restoring, upgrading, and preserving them.
-
-* **Building and Managing Servers**:
-  I like building home servers for self-hosting services, experimenting with networking, and managing Linux-based infrastructure.
-
-* **Building and Upgrading Computers**:
-  I enjoy assembling computers, selecting compatible hardware, upgrading components, and optimizing system performance.
-
-* **Collecting and Using Retro Gaming Consoles**:
-  I enjoy collecting classic gaming consoles, preserving their hardware, and experiencing games from previous generations.
-
 ## My proyects 
 
 | <img src="assets/active.svg" width="12"> Active  |  <img src="assets/archived.svg" width="12"> Archived  |  <img src="assets/discontinued.svg" width="12"> Discontinued  |
