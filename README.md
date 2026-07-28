@@ -5,7 +5,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,nodejs,html,css,javascript,react,mysql,git,typescript,cs,vscode,docker,arduino,powershell,ps,affinity" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,windows,nodejs,html,css,javascript,react,mysql,git,typescript,cs,vscode,docker,arduino,powershell,ps" />
 </p>
 
 ## My proyects 
