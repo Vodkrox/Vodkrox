@@ -28,4 +28,4 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 <img src="assets/discontinued.svg" width="12"> **TRISQUEL DRIVE**: A SaaS cloud storage platform that combined SMB file sharing with a web interface and a subscription-based payment model. The service reached **20 users** and remained active for **1 year and 8 months**.
 
 
-<img src="assets/archived.svg" width="12"> **RESERGALIA**: A WhatsApp bot system that automated bookings, appointments, and reminders for small and medium-sized businesses. It had **16 subscribers** and remained active 4 months
+<img src="assets/discontinued.svg" width="12"> **RESERGALIA**: A WhatsApp bot system that automated bookings, appointments, and reminders for small and medium-sized businesses. It had **16 subscribers** and remained active 4 months
