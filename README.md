@@ -17,7 +17,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 <img src="assets/active.svg" width="12"> **Valunium**: A **personal and professional finance manager** designed to run **entirely locally**. 
 
-<img src="assets/active.svg" width="12"> **NOTTO EVO**: New version of notto (See below). Still active with an average of 2k users daily.
+<img src="assets/archived.svg" width="12"> **NOTTO EVO**: New version of notto (See below).
 
 <img src="assets/archived.svg" width="12"> **LITHIUM**: A **minimalist AI-powered code editor** designed to run **entirely locally**. The project focuses on providing intelligent coding assistance while keeping all processing on the user's machine, ensuring privacy, low latency, and offline usability. 
 
