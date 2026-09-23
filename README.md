@@ -8,9 +8,9 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ## Skills
 
-### Servers
+### Server Management
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,windows,powershell,ps,kali,docker,mysql,sqlite,gcp,cmake,arduino,raspberrypi,nix" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,windows,powershell,ps,kali,docker,mysql,sqlite,gcp,cmake,raspberrypi,nix" />
 </p>
 
 ### Web Development
@@ -20,7 +20,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ### Others
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
 </p>
 
 ## My projects 
