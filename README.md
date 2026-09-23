@@ -18,6 +18,10 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,npm,php,cs,dotnet,kotlin,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,figma,sketchup,svg,md,notion,obsidian,discord" />
 </p>
 
+### Others
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+</p>
 
 ## My projects 
 
