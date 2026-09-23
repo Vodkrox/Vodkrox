@@ -8,9 +8,16 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ## Skills
 
+### Servers
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,python,bash,windows,nodejs,npm,html,css,javascript,react,mysql,git,typescript,cs,vscode,docker,md,arduino,powershell,ps,kali,cmake,discord,dotnet,electron,eclipse,figma,gcp,github,gtk,neovim,nextjs,notion,npm,obsidian,raspberrypi,sqlite,php,sketchup,svg,unity,vim,qt,nix,neovim,kotlin" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,windows,powershell,ps,kali,docker,mysql,sqlite,gcp,cmake,arduino,raspberrypi,nix" />
 </p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,npm,php,cs,dotnet,kotlin,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,figma,sketchup,svg,md,notion,obsidian,discord" />
+</p>
+
 
 ## My projects 
 
