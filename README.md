@@ -19,7 +19,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 <img src="assets/active.svg" width="12"> **Sinerxxia Platform**: Private company project. Internal platform for the company. It manages events, a custom calendar, phone numbers, client data. etc. **NOT** a public project.
 
 <img src="assets/active.svg" width="12"> **StS**: Private company project. Focused on selling mental health documentation.
-Website is still in development, not for real use.
+Website is still in development, still not for real use.
 
 <img src="assets/active.svg" width="12"> **Valunium**: A **personal and professional finance manager** designed to run **entirely locally**. 
 
