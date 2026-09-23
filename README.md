@@ -20,7 +20,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ### Others
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
+  <img src="https://skillicons.dev/icons?i=photoshop,arduino,ableton" />
 </p>
 
 ## My projects 
