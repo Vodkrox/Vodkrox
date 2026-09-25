@@ -10,7 +10,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ### Server Management
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,windows,powershell,ps,kali,docker,mysql,sqlite,gcp,cmake,raspberrypi,nix" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,windows,powershell,kali,docker,mysql,sqlite,gcp,cmake,raspberrypi,nix" />
 </p>
 
 ### Web Development
