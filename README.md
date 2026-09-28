@@ -19,12 +19,12 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 </p>
 
 ### General Development<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cs,dotnet,kotlin,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,figma,sketchup,svg,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,dotnet,kotlin,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,svg,md" />
 </p>
 
 ### Others
 <p>
-  <img src="https://skillicons.dev/icons?i=notion,obsidian,discord,photoshop,arduino,ableton,spotify" />
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,discord,photoshop,arduino,ableton,spotify,figma,sketchup" />
 </p>
 
 ## My projects 
