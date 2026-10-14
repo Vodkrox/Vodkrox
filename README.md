@@ -19,7 +19,11 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 </p>
 
 ### General Development<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cs,dotnet,kotlin,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,svg,md" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cs,dotnet,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,svg,md" />
+</p>
+
+### Android Development<p>
+  <img src="https://skillicons.dev/icons?i=kotlin" />
 </p>
 
 ### Others
