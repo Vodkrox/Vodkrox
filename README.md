@@ -40,7 +40,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 <img src="assets/active.svg" width="12"> **StS**: Private company project. Focused on selling mental health documentation.
 Website is still in development, still not for real use.
 
-<img src="assets/active.svg" width="12"> **Valunium**: A **personal and professional finance manager** designed to run **entirely locally**. 
+<img src="assets/archived.svg" width="12"> **Valunium**: A **personal and professional finance manager** designed to run **entirely locally**. 
 
 <img src="assets/archived.svg" width="12"> **NOTTO EVO**: New version of notto (See below).
 
