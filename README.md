@@ -15,15 +15,15 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,npm,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,npm,php" />
 </p>
 
 ### General Development<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cs,dotnet,electron,unity,qt,gtk,git,github,vscode,neovim,vim,eclipse,svg,md" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,electron,unity,git,github,vscode,neovim,vim,svg,md" />
 </p>
 
 ### Android Development<p>
-  <img src="https://skillicons.dev/icons?i=kotlin" />
+(Learning) <img src="https://skillicons.dev/icons?i=kotlin" />
 </p>
 
 ### Others
