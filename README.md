@@ -15,7 +15,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,npm,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,npm" />
 </p>
 
 ### General Development<p>
