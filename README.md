@@ -8,7 +8,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 ## Skills
 
-### Server Management
+### Server Management & Linux
 <p>
   <img src="https://skillicons.dev/icons?i=linux,arch,debian,redhat,kali,ubuntu,bash,windows,powershell,kali,docker,raspberrypi,nix" />
 </p>
