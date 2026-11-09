@@ -1,7 +1,7 @@
 <img src="assets/github-header-banner.png" />
 
 
-#### Professional Developer
+#### Professional Full-Stack Developer
 Passionate about Linux & FOSS. Also a ThinkPad collector.
 
 My projects are based on clean architecture & automation. I enjoy experimenting with self-hosted services and working on open-source projects.
