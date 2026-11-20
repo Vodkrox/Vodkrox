@@ -35,7 +35,7 @@ My projects are based on clean architecture & automation. I enjoy experimenting 
 
 | <img src="assets/active.svg" width="12"> Active  |  <img src="assets/archived.svg" width="12"> Archived  |  <img src="assets/discontinued.svg" width="12"> Discontinued  |
 
-<img src="assets/active.svg" width="12"> **Sinerxxia Platform**: Private company project. Internal platform for the company. It manages events, a custom calendar, phone numbers, client data. etc. **NOT** a public project.
+<img src="assets/active.svg" width="12"> **Creces Platform (Plataforma Creces)**: Multi-Modal CRM for business. For sale
 
 <img src="assets/active.svg" width="12"> **StS**: Private company project. Focused on selling mental health documentation.
 Website is still in development, still not for real use.
